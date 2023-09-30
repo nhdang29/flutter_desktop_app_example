@@ -1,3 +1,3 @@
 
-const String apiKey = 'AIzaSyC29VAZ8gLTa55lDw6v6Dre7-8KEAIFWxQ';
-const String projectId = 'todoapp-20b3f';
+const String apiKey = 'your apikey';
+const String projectId = 'your project id';
